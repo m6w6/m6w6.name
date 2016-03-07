@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/m6w6
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://m6w6.name
+  * I am m6w6 (https://keybase.io/m6w6) on keybase.
+  * I have a public key with fingerprint 1EC3 C71D DD63 5831 A337  D684 480E 3E14 B0A4 C7C7
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101040ba2c1f3ef35b09cf3a7173de67e3d40f3b34e9e6d9f9b3de55c5005dab4e30a",
+            "fingerprint": "1ec3c71ddd635831a337d684480e3e14b0a4c7c7",
+            "host": "keybase.io",
+            "key_id": "480e3e14b0a4c7c7",
+            "kid": "0101040ba2c1f3ef35b09cf3a7173de67e3d40f3b34e9e6d9f9b3de55c5005dab4e30a",
+            "uid": "1f0cbab51d4655492574917b4a7b5e00",
+            "username": "m6w6"
+        },
+        "service": {
+            "hostname": "m6w6.name",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1454679784,
+    "expire_in": 157680000,
+    "prev": "e03fb68895561e9b0690026b3b6b87be41fe91729121cb2aab36771725447b4a",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIfAnicrVJbSFRBGF7TrZRapJIggugQXXS1mZ05M3sWjC5E9hBCUClEy5kzc/Sg
+7ll3j5fFIulpCyMr2uqhKIxIMtPUh6SLG5XQHSrUfAixwoiiiEowqjlS0EOPzTzM
+zDff983//cztuZmenIwS35oFXecGBzPup1vrPNt7z080KczmCSXUpFSJ6UVUcxF3
+wlUWV0IKgHJiwPSAAU0kTKQyoBkm0imkiAtCBeIYmIghLDRBuGZqTOKqaqgAqFxn
+WCCgK37FtCIVIhaNWRFH2kJhIINCzjlBahBBHSHKSRDjIBBIQMyAjg1qUCmstOOu
+QhbH9LgosmyJyUN4urx/8P9z3XXTdtAEBtOZCjkmqoq1gEqxBinDOmWqAMAlxkUs
+otcIya4hDUTZ41ckUm8Zwm2qm+Kv26LpvV+JxmzHNuxqCVc6TjQecmVOIuryGgQL
+/3YIMyvCZQOlol7E4pYdUUJQMg3Hci0hVjGhGg1ivyIao1ZMhC2XoVISBHK474h6
+aSkAMhkJBjVVJVBoDBANgABhiBEWpExgaAoZK6DBADRYQNcZIlR2LKBi7IZV3Ey1
+EVsJUVmmXiEt41ZFRHfqYkLZc2tgZ5YnI8cz0zvD/VienOzcP9+ts3jWj8KySXLo
+2/WWvMadFu1MfRsfyxg9esY7vKK5+wFcVU0ye77ME76Jj12L9OSU0/H+6r7C9mLu
+DfWdtWPe5cNDeWVtP+ZED89MwSNfL/fz3P6e5ydfPq0pLLvp8/DEm6EEXl0w2Xyj
+pXJDMjWSvZ4nRybWlO4tKc8PtTXFvedLfO1TF5Yu3j91LPW6fnL2yud9LWfWmuUP
+5+cmllw69eLVRpR1eLyhc0dH+PvUz9aWZ70/R32tC+98SD1Jt13xv0uWbvOORp4k
+9nbwr4k5Y5+u7bqa/+7uoYtb9s/I795dkPzcvuDgic0DubXr3iYXjW19dG8weuD4
+idNGoj9n87J036b0419DgEMQ
+=dVhJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/m6w6
+
+==================================================================
+
