@@ -32,6 +32,7 @@
 			}
 			section, div.section {
 				margin-top: 2em;
+				clear: both;
 			}
 			.email:after {
 				content: "\6d\69\6b\65\40\70\68\70\2e\6e\65\74";
@@ -42,11 +43,17 @@
 			img {
 				border: 1px solid #999;
 				box-shadow: 0 0 2em #999;
+				margin-right: 2em;
+				margin-bottom: 1em;
+				float: left;
 			}
 			h1, h2, h3, th {
 				font-weight: normal;
 				font-style: oblique;
 				text-shadow: 0 0 1em #999;
+			}
+			h1 {
+				padding-top: 1em;
 			}
 			h2 {
 				padding-top: 1em;
@@ -55,6 +62,9 @@
 		</style>
 	</head>
 	<body>
+		<div>
+			<img id="portrait" src="m6w6.jpg" height="185" width="140" alt="">
+		</div>
 		<div class="header">
 			<header>
 			<h1>
@@ -71,6 +81,7 @@
 				<br>
 				Father of two.
 				Photographer in another life.
+
 			<p>
 			</header>
 		</div>
@@ -81,9 +92,6 @@
 					<tr>
 						<th>PGP, GPG</th>
 						<td>1EC3 C71D DD63 5831 A337 D684 480E 3E14 B0A4 C7C7</td>
-						<td rowspan="4">
-							<img id="portrait" src="m6w6.jpg" height="185" width="140" alt="">
-						</td>
 					</tr>
 					<tr>
 						<td>
@@ -97,23 +105,7 @@
 								rel="external">keybase.io</a>
 						</td>
 					</tr>
-					<tr>
-						<th>x509, S/MIME</th>
-						<td>CB34 BE88 ED02 4DBA 294B 9CE9 3B1C 948A 24D0 E50A</td>
-					</tr>
-					<tr>
-						<td>
-							<a href="x509.key" type="text/plain" download="mike@php.net.key"
-								>pubkey</a>,
-							<a href="x509.crt" type="text/plain" download="mike@php.net.crt"
-								>cert</a>
-						</td>
-						<td>
-							<a href="https://startssl.com/root" rel="external"
-								>StartSSL root certs</a>
-						</td>
-				</tr>
-			</table>
+				</table>
 			</section>
 		</div>
 		<div class="section">
